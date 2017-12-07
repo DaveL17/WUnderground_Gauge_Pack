@@ -1,6 +1,8 @@
+![Logo](https://github.com/DaveL17/WUnderground_Gauge_Pack/wiki/img/WGP_Logo.png)
+
 #### What is it?
-A collection of images to construct and display gauges on control 
-pages.
+A collection of images to construct and display gauges on Indigo 
+control pages.
 
 #### What can you do with it?
 Well, a picture is worth a thousand words. Here's one option:  
