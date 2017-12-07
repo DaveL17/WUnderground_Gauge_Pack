@@ -1,8 +1,6 @@
 #### What is it?
-The WUnderground Plugin Gauge Pack is a series of nested folders 
-that contain many, many PNG files that allow users to have the 
-ability to create custom Control Page gauges for select plugin 
-device states. In other words, on the inside, it looks like this:  
+A collection of images to construct and display gauges on control 
+pages.
 
 #### What can you do with it?
 Well, a picture is worth a thousand words. Here's one option:  
