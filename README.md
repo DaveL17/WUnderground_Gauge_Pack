@@ -1,4 +1,4 @@
-![Logo](https://github.com/DaveL17/WUnderground_Gauge_Pack/wiki/img/WGP_Logo.png)
+![Logo](https://github.com/DaveL17/WUnderground_Gauge_Pack/wiki/img/wgp_logo.png)
 
 #### What is it?
 A collection of images to construct and display gauges on Indigo control pages.
